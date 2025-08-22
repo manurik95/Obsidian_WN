@@ -8,3 +8,4 @@ AOK trocknet uns aus. In 6 Monaten alles stehen:
 	- LeetCode DSA
 	- C++
 	- Kanji lernen 150 Stück
+	- Draw a box
