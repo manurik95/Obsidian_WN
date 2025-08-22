@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organische Chemie/TESTSETSETSET.md",
+                "file": "6 Monats Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TESTSETSETSET"
+              "title": "6 Monats Plan"
             }
           }
         ]
@@ -189,10 +189,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "547e90010c7448d8",
+  "active": "6e053a38ebf87d41",
   "lastOpenFiles": [
-    "Programmierung/LeetCode.md",
     "organische Chemie/TESTSETSETSET.md",
+    "6 Monats Plan.md",
+    "Programmierung/LeetCode.md",
     "Programmierung/Templates",
     "Programmierung/Problems",
     "Programmierung/Patterns",
