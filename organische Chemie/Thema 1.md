@@ -7,6 +7,7 @@ Kernthemen:
 Funktionale Gruppen
 Alkan → Alken → Alkin → Aromat → Alkohol → Aldehyd/Keton → Carbonsäure → Ester/Amid → Amin.
 
+Benennung.
 
 **Was du am Ende können solltest:**
 - Hybridisierung von **jedem** C-Atom bestimmen
