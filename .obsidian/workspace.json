@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organische Chemie/Thema 1.md",
+                "file": "Japanisch/Grammatik/Müssen -なければなりません.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thema 1"
+              "title": "Müssen -なければなりません"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "[\"tags\":]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Lesezeichen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,7 +175,7 @@
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
@@ -204,8 +203,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6edf8f4f1713779a",
+  "active": "6e053a38ebf87d41",
   "lastOpenFiles": [
+    "Japanisch/Grammatik/-れば-Bedingungsform.md",
+    "Psychologie/The Velvet Rage - Alan Downs Buchnotizen.md",
+    "Skalarprodukt.md",
+    "Excalidraw/normalvektor.drawing.md",
+    "organische Chemie/Thema 1.md",
     "6 Monats Plan.md",
     "organische Chemie/TESTSETSETSET.md",
     "Programmierung/LeetCode.md",
@@ -215,21 +219,17 @@
     "organische Chemie/Grundlagen",
     "organische Chemie/Reaktionen",
     "organische Chemie/Mechanismen",
-    "Excalidraw/normalvektor.drawing.md",
     "Mathematik/Lineare Algebra/Normalvektor.md",
-    "organische Chemie/Thema 1.md",
     "Programmierung",
     "Psychologie/Skill Liste Velvet Rage.md",
     "organische Chemie",
     "Japanisch/Grammatik/Müssen -なければなりません.md",
-    "Japanisch/Grammatik/-れば-Bedingungsform.md",
     "Japanisch/Grammatik",
     "Japanisch",
     "Mathematik/Lineare Algebra/Lineare Algebra.md",
     "Psychologie/Dialectical Behavior Therapy.md",
     "Psychologie/Acceptance and Commitment Therapy.md",
     "Excalidraw/Drawing 2025-08-20 00.38.10.excalidraw.md",
-    "Psychologie/The Velvet Rage - Alan Downs Buchnotizen.md",
     "Psychologie/Cognitive Behavioral Therapy.md",
     "Dialectical Behavioral Therapy.md",
     "Acceptance and Commitment Therapy.md"
