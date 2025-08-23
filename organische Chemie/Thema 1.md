@@ -4,6 +4,9 @@ Kernthemen:
 - **Molekülgeometrie** (VSEPR, 3D-Strukturen)
 - **Bindungspolarität** (Elektronegativität, Dipole)
 
+Funktionale Gruppen
+Alkan → Alken → Alkin → Aromat → Alkohol → Aldehyd/Keton → Carbonsäure → Ester/Amid → Amin.
+
 
 **Was du am Ende können solltest:**
 - Hybridisierung von **jedem** C-Atom bestimmen

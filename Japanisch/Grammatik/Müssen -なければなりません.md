@@ -26,6 +26,6 @@ Im japansichen klingt "müssen" oft streng, also mildern sie es sprachlich ab:
 - べんきょうしなきゃ → „ich sollte/muss lernen“ (locker).
 
 Zu Klären:
-was heißen die einzelnen Bestandteile genau.
+was heißen die einzelnen Bestandteile genau. #todolater
 
 [[-れば-Bedingungsform]]
