@@ -3,11 +3,18 @@ Kernthemen:
 - **Orbitaltheorie** (σ- und π-Bindungen, Orbitalüberlappung)
 - **Molekülgeometrie** (VSEPR, 3D-Strukturen)
 - **Bindungspolarität** (Elektronegativität, Dipole)
+- - Elektronegativität und Polarität
+- Intermolekulare Kräfte
 
 Funktionale Gruppen
 Alkan → Alken → Alkin → Aromat → Alkohol → Aldehyd/Keton → Carbonsäure → Ester/Amid → Amin.
 
-Benennung.
+**Nomenklatur**
+
+- IUPAC-Regeln für Alkane, Alkene, Alkine
+- Funktionelle Gruppen erkennen und benennen
+- Prioritätsregeln bei mehreren funktionellen Gruppen
+
 
 **Was du am Ende können solltest:**
 - Hybridisierung von **jedem** C-Atom bestimmen
