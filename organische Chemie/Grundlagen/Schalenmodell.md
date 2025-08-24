@@ -13,6 +13,8 @@ Gruppe = Valenzelektronen / Außenelektronen
 
 **2. Valenzschale:** Die äußerste Schale heißt "Valenzschale" - da passiert alle Chemie! Die inneren Schalen sind chemisch "langweilig".
 
+**Hund'sche Regel (vereinfacht):** Elektronen besetzen erstmal alle verfügbaren "Plätze" einzeln, bevor sie sich paaren.
+
 **3. Die Grenzen des Modells:**
 
 - Funktioniert super für die ersten 20 Elemente
