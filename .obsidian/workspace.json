@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organische Chemie/Thema 1.md",
+                "file": "organische Chemie/Grundlagen/Schalenmodell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thema 1"
+              "title": "Schalenmodell"
             }
           }
         ]
@@ -205,12 +205,13 @@
   },
   "active": "6e053a38ebf87d41",
   "lastOpenFiles": [
+    "organische Chemie/Thema 1.md",
+    "organische Chemie/Grundlagen/Schalenmodell.md",
     "Japanisch/Grammatik/Müssen -なければなりません.md",
     "Japanisch/Grammatik/-れば-Bedingungsform.md",
     "Psychologie/The Velvet Rage - Alan Downs Buchnotizen.md",
     "Skalarprodukt.md",
     "Excalidraw/normalvektor.drawing.md",
-    "organische Chemie/Thema 1.md",
     "6 Monats Plan.md",
     "organische Chemie/TESTSETSETSET.md",
     "Programmierung/LeetCode.md",
