@@ -1,1 +1,1 @@
-Elektronenkonfiguration: beschreibt wie sich die Elektronen 
+Elektronenkonfiguration: beschreibt wie sich die Elektronen auf versch. Energieniveaus innerhalb des Atoms verteilen.
