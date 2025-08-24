@@ -15,7 +15,8 @@ Gruppe = Valenzelektronen / Außenelektronen
 
 **Hund'sche Regel (vereinfacht):** Elektronen besetzen erstmal alle verfügbaren "Plätze" einzeln, bevor sie sich paaren.
 
-Sie können aber auch zusammen Plätze haben wenn andere Besetzt sind. Das geht über Spin. der muss antiparallel sein. Superposition verhindert, dass die beiden Teilchen am selben Ort sind
+Sie können aber auch zusammen Plätze haben wenn andere Besetzt sind. Das geht über Spin. der muss antiparallel sein. Sodass Wahrscheinlichkeitsfunktionen praktisch nicht überlappen.
+metaphorisches Bild. Sinusfunktion und invertierte Sinusfunktion -> Integrale intersecten nicht.
 Ist Quantenmechanik Blödsinn. Musst du einfach akzeptieren
 
 **3. Die Grenzen des Modells:**
