@@ -1,0 +1,1 @@
+Elektronenkonfiguration: beschreibt wie sich die Elektronen 

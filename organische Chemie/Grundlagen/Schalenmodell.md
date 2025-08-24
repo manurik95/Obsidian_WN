@@ -19,6 +19,13 @@ Sie können aber auch zusammen Plätze haben wenn andere Besetzt sind. Das geht 
 metaphorisches Bild. Sinusfunktion und invertierte Sinusfunktion -> Integrale intersecten nicht.
 Ist Quantenmechanik Blödsinn. Musst du einfach akzeptieren
 
+**Was heißt "Zustand"?** Ein Elektron wird durch 4 "Quantenzahlen" beschrieben:
+Elektronen können in den Quantenzahlen NIEMAL identisch sein.
+1. **Hauptquantenzahl** (welche Schale)
+2. **Nebenquantenzahl** (welches Orbital-Form)
+3. **Magnetquantenzahl** (welche Orientierung im Raum)
+4. **Spinquantenzahl** (↑ oder ↓)
+
 **3. Die Grenzen des Modells:**
 
 - Funktioniert super für die ersten 20 Elemente
