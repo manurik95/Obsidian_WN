@@ -7,6 +7,6 @@
 [[07 Potenzialform]]
 [[08 Passivform]]
 [[09 Konditionalform wenn/falls]]
-[[10 Erfahrung und Versuchun]]
+[[10 Erfahrung und Versuchung]]
 [[11 Passivform]]
 [[12 Kausativform]]
