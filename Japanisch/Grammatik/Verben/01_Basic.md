@@ -12,7 +12,7 @@ Enden auf **-eru** oder **-iru**
 - 食べる → 食べ**ます**
 - 見る → 見**ます**
 
-**masu-Verneinung**
+**masen-Verneinung**
 - 食べます → 食べ**ません** (_tabemasen_)
 - 行きます → 行き**ません** (_ikimasen_)
 
@@ -32,9 +32,19 @@ Bildung: letzte Silbe (u) →**i** + **ます**
 - 話す → 話**します**
 - 読む → 読**みます**
 
+Verneinung-masu: (u) → **ません**
+ 行く → 行**きません**
+ 話す → 話**しません**
+ 読む → 読**みません**
 
 ### c) **Unregelmäßig (nur 2!)**
 - する (_suru_) = machen → します (_shimasu_)
 - 来る (_kuru_) = kommen → 来ます (_kimasu_)
 
-Verneinung 
+Verneinung **masu**:
+- しません shimasen
+- 来ません kimasen 
+
+Verneinung **nai**:
+- しない (_shinai_) = nicht machen
+- 来**ない (_konai_)** = nicht kommen
