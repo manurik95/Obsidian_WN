@@ -37,6 +37,7 @@ Verneinung-masu: (u) → **ません**
  話す → 話**しません**
  読む → 読**みません**
 
+
 ### c) **Unregelmäßig (nur 2!)**
 - する (_suru_) = machen → します (_shimasu_)
 - 来る (_kuru_) = kommen → 来ます (_kimasu_)
