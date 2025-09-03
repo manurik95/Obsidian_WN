@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Basic.md",
+                "file": "Japanisch/Grammatik/Verben/01_Basic.md",
                 "mode": "source",
                 "source": false
               },
@@ -202,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,9 +218,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f8a460c35b96675",
+  "active": "0c7bf4d84a856149",
   "lastOpenFiles": [
-    "01_Basic.md",
+    "Japanisch/Grammatik/Verben/01_Basic.md",
     "Japanisch/Grammatik/Verben/00_Verben.md",
     "GTD/natürliche Projektplanung.md",
     "Japanisch/Grammatik/Verben",
