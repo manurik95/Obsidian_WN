@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GTD/natürliche Projektplanung.md",
+                "file": "Japanisch/Grammatik/Verben/Unbenannt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "natürliche Projektplanung"
+              "title": "Unbenannt"
             }
           }
         ]
@@ -187,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480.5
+    "width": 254.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,13 +203,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c7bf4d84a856149",
+  "active": "7abfc5bb275e4422",
   "lastOpenFiles": [
+    "GTD/natürliche Projektplanung.md",
+    "Japanisch/Grammatik/Verben/Unbenannt.md",
     "Japanisch/Grammatik/Verben",
     "organische Chemie/Spaced Repition aufgaben.md",
     "Skalarprodukt.md",
     "6 Monats Plan.md",
-    "GTD/natürliche Projektplanung.md",
     "GTD",
     "Psychologie/00_Selbst/2025-08-17.md",
     "Psychologie/00_Selbst/2025-08-25.md",
@@ -233,7 +234,6 @@
     "Mathematik/Lineare Algebra/Normalvektor.md",
     "Programmierung",
     "Psychologie/Skill Liste Velvet Rage.md",
-    "organische Chemie",
     "Mathematik/Lineare Algebra/Lineare Algebra.md",
     "Psychologie/Dialectical Behavior Therapy.md",
     "Psychologie/Acceptance and Commitment Therapy.md",
