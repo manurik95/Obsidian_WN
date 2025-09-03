@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organische Chemie/Spaced Repition aufgaben.md",
+                "file": "GTD/natürliche Projektplanung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spaced Repition aufgaben"
+              "title": "natürliche Projektplanung"
             }
           }
         ]
@@ -205,8 +205,8 @@
   },
   "active": "7abfc5bb275e4422",
   "lastOpenFiles": [
-    "Skalarprodukt.md",
     "organische Chemie/Spaced Repition aufgaben.md",
+    "Skalarprodukt.md",
     "6 Monats Plan.md",
     "GTD/natürliche Projektplanung.md",
     "GTD",
