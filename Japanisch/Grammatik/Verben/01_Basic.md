@@ -1,4 +1,4 @@
-[[Verben]] **Typen**:
+[[00_Verben]] **Typen**:
 ### a) **Ru-Verben (一段, ichidan)**
 Enden auf **-eru** oder **-iru**
 - 食べ**る** (_taberu_) = essen
